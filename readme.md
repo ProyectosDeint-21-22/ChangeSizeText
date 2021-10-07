@@ -28,7 +28,7 @@
 
 - Para que nos funciones la clase ChangeSizeApplication en la configuración del AndroidManifiest.xml debemos de cambiar el nombre de la clase Application e indicarle que nuestra clase creada ChangeSizeApplication es ahora nuestra clase Application.
 
-  ![Captura de pantalla de 2021-10-07 09-35-13](/home/nacho/Imágenes/Captura de pantalla de 2021-10-07 09-35-13.png)
+  ![Imagen AndroidManifiest](/home/nacho/Imágenes/Captura de pantalla de 2021-10-07 09-35-13.png)
 
 - Sabemos que nuesta clase POJO Mesagge implementa la interfaz Serializable, por tanto nuestra clase User también implementará la misma interfaz, ya que se es un campo de la clase Message y se recoge con un Intent.
 
