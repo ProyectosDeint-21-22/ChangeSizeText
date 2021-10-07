@@ -1,4 +1,4 @@
-# Proyecto SendMesage.
+# Proyecto ChangeSizeText.
 
 ###### Proyecto Acabado "06/10/2021".
 
