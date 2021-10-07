@@ -21,6 +21,9 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <!--La propiedad android:saveEnabled="false" hace referencia al estado de diseño que indicamos que no se almacene.
+    Por defecto es true-->
+
     <SeekBar
         android:id="@+id/skSize"
         android:layout_width="0dp"
@@ -32,7 +35,7 @@
         android:progress="34"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/etTexto" />
+        app:layout_constraintTop_toBottomOf="@+id/etTexto"/>
 
     <Button
         android:id="@+id/btSend"
